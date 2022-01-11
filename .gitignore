@@ -1,0 +1,6 @@
+captures/*
+elastic_packets/*
+decrypted_pcap/*
+elastic_decrypted/*
+
+old_pcaps/*
